@@ -1,0 +1,8 @@
+# Images
+*.png
+
+# USD files
+*.usd
+*.usda
+*.usdc
+*.usdz
